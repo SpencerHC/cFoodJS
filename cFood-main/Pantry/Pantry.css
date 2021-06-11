@@ -1,0 +1,10 @@
+.pantry-layout{
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.space{
+    padding-top: 25px;
+}

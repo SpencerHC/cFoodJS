@@ -1,0 +1,19 @@
+.recipe-book-layout{
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.card-size{
+    height: 500px;
+    width: 50%;
+}
+
+.header{
+    text-align: center;
+}
+
+.recipe-space {
+    padding-top: 25px;
+}
